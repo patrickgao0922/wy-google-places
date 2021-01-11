@@ -3,7 +3,7 @@ import json
 import csv
 
 # Global variables
-apiKey = "" # Google API Key
+apiKey = "AIzaSyAnYRkQ0oq-cBFTW9jLCznEPUyZO1gbzMU" # Google API Key
 query = "Clothing+dresse+dress+fashion+ladies+lady+girl+girls+women+woman" # Query String
 radius = 50000 # Radius from the coordination
 
